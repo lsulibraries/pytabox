@@ -17,3 +17,5 @@
         - python-nltk
         - ipython3
         - xcb-proto
+        - python3-zmq
+        - python3-pip
