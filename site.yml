@@ -6,4 +6,4 @@
   tasks:
     - name: install things
       apt:
-        name: htop
+        name: python3.4 python3-numpy python3-scipy python3-matplotlib python3-pandas python-nltk ipython3 
