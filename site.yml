@@ -1,0 +1,9 @@
+---
+- hosts: all
+  become: yes
+  vars:
+    hello: world
+  tasks:
+    - name: install things
+      apt:
+        name: htop
